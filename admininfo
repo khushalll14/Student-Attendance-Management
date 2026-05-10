@@ -1,0 +1,44 @@
+admin:
+khushal123@gmail.com
+pass : admin
+
+teachers:
+(1)Shri Hiteshbhai Patel   	    subjects = 1.C Programming---2.Web Technology----3.Engineering Mathematics	
+	HiteshPatel@gmail.com	
+	pass :000111
+
+(2)Prof. Ananyaben Dave		subjects =1.Database Management Systems (DBMS)-----2.Data Structures & Algorithms------3.Applied Physics (or Data Structures)
+	AnanyaDave@gmail.com
+	pass:000111
+
+(3)prof. Pankaj Patel		subjects=1.Principles of Management-----2.Research Methodology------3.Marketing Management----4.Strategic Management
+	PankajPatel@gmail.com
+	pass:000111
+
+(4)prof. jay Desai		subjects=1.Financial Accounting------2.Accountancy-----3.Business Statistics	
+	jayDesai@gmail.com
+	pass:000111
+
+(5)prof.Tushar Joshi		subjects=1.English Literature----2.Psychology (or History/Economics)------3.Advanced Sociological/Literary Theory
+	TusharJoshi@gmail.com
+	pass:000111
+
+**
+**
+student:
+(1)Drishti mehta        
+	Drishti1@gmail.com 	
+	pass : 123456
+(2)Devansh Patel
+	Devansh2@gmail.com
+	pass : 123456
+(3) Jiya gajjar
+	jiya3@gmail.com
+	pass ; 123456
+(4) Vatsal savania
+	Vatsal4@gmail.com	
+	pass : 123456
+(5) Devanshu jotaniya
+	Devanshu5@gmail.com
+	pass :123456
+    

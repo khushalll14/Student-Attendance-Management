@@ -88,8 +88,7 @@ $  python manage.py createsuperuser
 Then Add Email, Username and Password
 
 for login use this details:
-admin: khushal@123gmail.com
-pass : admin
+read the admininfo.txt file.
 
 for more logins see admininfo text file in folder.
 
